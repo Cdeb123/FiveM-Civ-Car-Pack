@@ -77,6 +77,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('mustang50th', '2015 Ford Mustang GT 50 Years Special Edition')
 	AddTextEntry('raptor2017', '2017 Ford Raptor')
 	AddTextEntry('wildtrak', '2021 Ford Bronco Wildtrak')
+	AddTextEntry('00f350d', '2000 Ford F350 Super Duty Dually')
 	-- HONDA
 	AddTextEntry('honcrx91', 'Honda CRX SiR 1991')
 	AddTextEntry('na1', '1992 Honda NSX-R (NA1)')
