@@ -89,10 +89,14 @@
 | **Ferrari Enzo** | mig | ![Picture](./img/mig.jpg) | le__AK | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-enzo-gemballa-mig-u1-tuning-add-on#description_tab) | ✔️ |
 | **Ferrari 458 Italia, Spider, Speciale & Aperta** | yFe458i1, yFe458i2, yFe458s1X, yFe458s1, yFe458s2X, yFe458s2 | ![Picture](./img/yFe458.jpg) | dsawdsaw | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-458-spider-2013-add-on-tuning-livery) | ✔️ |
 | **Ferrari F12 TRS & F60 America** | yFeF12T, yFeF12A | ![Picture](./img/yFeF12.webp) | dsawdsaw | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-f12-pack) | ✔️ |
+| **2013 Infiniti FX50S** | fx50s | ![Picture](./img/fx50s.webp) | AlexHIT | [5MODS Link](https://www.gta5-mods.com/vehicles/infiniti-fx50s-add-on-replace) | ✔️ |
+| **Infiniti QX56** | qx56 | ![Picture](./img/qx56.jpg) | DragoN777 | [5MODS Link](https://www.gta5-mods.com/vehicles/infiniti-qx56-add-on-replace) | ✔️ |
+| **2016 Infiniti Q30** | q30 | ![Picture](./img/q30.jpg) | HitmanNiko | [5MODS Link](https://www.gta5-mods.com/vehicles/infiniti-q30-16) | ✔️ |
 | **2012 Ford F150 SVT Raptor R** | f150 | ![Picture](./img/f150.webp) | [GOC]peng00820 | [5MODS Link](https://www.gta5-mods.com/vehicles/2012-ford-f150-svt-raptor) | ✔️ |
 | **1978 Ford F150 XLT Ranger** | f15078 | ![Picture](./img/f15078.webp) | OhiOcinu & GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/1978-ford-f150-xlt-add-on) | ✔️ |
 | **2005 Ford GT** | fgt | ![Picture](./img/fgt.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2005-ford-gt-aige) | ✔️ |
 | **2017 Ford GT** | gt17 | ![Picture](./img/gt17.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-ford-gt-add-on-replace-yca-aige) | ✔️ |
+| **2000 Ford F350 Super Duty Dually** | 00f350d | ![Picture](./img/00f350.png) | DeezNutties123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2000-f350-super-duty-dually-addon) | ✔️ |
 | **2015 Ford Mustang GT 50 Years Special Edition** | mustang50th | ![Picture](./img/mustang50th.webp) | modcanario (alertacobra_gta5_mods) and zQrba | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-ford-mustang-gt-50-years-special-edition-add-on-tunning) | ✔️ |
 | **2017 Ford Raptor** | raptor2017 | ![Picture](./img/raptor2017.webp) | Vans123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-ford-raptor-hq-rigged-suspension-multi-dirt-animated-engine-tuning) | ✔️ |
 | **2021 Ford Bronco Wildtrak** | wildtrak | ![Picture](./img/wildtrak.webp) | LightningJet357 | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-ford-bronco-wildtrak-add-on-fivem) | ✔️ |
@@ -166,6 +170,7 @@
 | **2018 Porsche Cayenne S** | pcs18 | ![Picture](./img/pcs18.webp) | skyrix | [5MODS Link](https://www.gta5-mods.com/vehicles/porsche-cayenne-s-2018-add-on-replace-skyrix) | ✔️ |
 | **2019 Porsche Macan Turbo** | pm19 | ![Picture](./img/pm19.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/2019-porsche-macan-turbo-add-on-extras-dirt-00abolfazl00) | ✔️ |
 | **2020 Porsche Taycan Turbo S** | taycan | ![Picture](./img/taycan.webp) | Scott_Carter | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-porsche-taycan-turbo-s-add-on-replace-template-auto-spoiler) | ✔️ |
+| **2022 Porsche 911 GT3** | pgt322 | ![Picture](./img/22gt3.webp) | Abolfazldanaee | [5MODS Link](https://www.gta5-mods.com/vehicles/2022-porsche-911-gt3-add-on-vehfuncsv-template) | ✔️ |
 | **Peugeot 205 Turbo 16 2 in One** | yPG205t16A/yPG205t16B | ![Picture](./img/yPG205t16.webp) | dsawdsaw | [5MODS Link](https://de.gta5-mods.com/vehicles/peugeot-205-turbo-16-rally-2in1-add-on-tuning-livery) | ✔️ |
 | **Renault Twingo I** | twingo | ![Picture](./img/twingo.webp) | Gta5KoRn | [5MODS Link](https://de.gta5-mods.com/vehicles/renault-twingo-i) | ✔️ |
 | **Range Rover Evoque** | rrevoque | ![Picture](./img/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) | ✔️ |
@@ -199,7 +204,8 @@
 | **Volvo XC90 T8** | xc90 | ![Picture](./img/xc90.png) | Jureeke | [5MODS Link](https://www.gta5-mods.com/vehicles/volvo-xc90-t8-add-on-fivem-jureeke) | ✔️ |
 | **W-Motors Lykan HyperSport** | lykan | ![Picture](./img/Lykan.webp) | Kpym | [5MODS Link](https://www.gta5-mods.com/vehicles/w-motor-lykan-hypersport-add-on-replace-digital-dials) | ✔️ |
 | **W-Motors Fenyr Supersport** | wmfenyr | ![Picture](./img/wmfenyr.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/wmotors-fenyr-supersport-add-on) | ✔️ |
-
+| **2018 GMC Sierra Denali 1500** | denali18 | ![Picture](./img/denali18.jpg) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-gmc-sierra-denali-1500-add-on) | ✔️ |
+| **2003 GMC Yukon XL** | yukonxl | ![Picture](./img/03yukon.webp) | gtavmodscar | [5MODS Link](https://www.gta5-mods.com/vehicles/gmc-yukon-xl-2003-add-on-replace-extras) | ✔️ |
 
 <!-- 
 https://www.gta5-mods.com/vehicles/2017-honda-civic-touring-replace                         | 17civict

@@ -19,3 +19,8 @@
 - [R3tr0Ananas](https://github.com/R3tr0Ananas)
   - Created SQL
   - Contributed requested vehicles femo issues
+
+- [Cdeb123](https://github.com/Cdeb123)
+  - Adding more vehicles
+  - Contributed to the fixing of vehicles
+  - Acting on reports of vehicles not streaming properly

@@ -40,6 +40,9 @@ Citizen.CreateThread(function()
 	AddTextEntry('2020ss', '2020 Chevrolet Camaro SS')
 	AddTextEntry('camrs17', '2017 Chevrolet Camaro RS')
 	AddTextEntry('tahoe21', '2021 Chevrolet Tahoe RST')
+	-- GMC
+	AddTextEntry('denali18', '2018 GMC Sierra 1500 Denali')
+	AddTextEntry('yukonxl', '2003 GMC Yukon XL')
 	-- CORVETTE
 	AddTextEntry('corvettec5z06', 'Chevrolet Corvette C5 Z06')
 	AddTextEntry('czr1', '2009 Chevrolet Corvette ZR1')
@@ -84,6 +87,10 @@ Citizen.CreateThread(function()
 	AddTextEntry('ap2', 'Honda S2000 AP2')
 	AddTextEntry('dragekcivick', '1997 Honda Civic Sedan Drag Version')
 	AddTextEntry('fk8', '2018 Honda Civic Type-R (FK8)')
+	-- INFINITI
+	AddTextEntry('fx50s', '2013 Infiniti FX50S')
+	AddTextEntry('qx56', 'Infiniti QX56')
+	AddTextEntry('q30', '2016 Infiniti Q30')
 	-- ITALDESIGN
 	AddTextEntry('it18', '2017 Italdesign Zerouno')
 	-- JAGUAR
@@ -164,6 +171,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('cgt', '2003 Porsche Carrera GT (980)')
 	AddTextEntry('pm19', '2019 Porsche Macan Turbo')
 	AddTextEntry('taycan', '2020 Porsche Taycan Turbo S')
+	AddTextEntry('pgt322', '2022 Porsche 911 GT3')
 	-- RANGEROVER
 	AddTextEntry('rrevoque', 'Range Rover Evoque')
 	AddTextEntry('rrst', 'Range Rover Vogue Startech')
