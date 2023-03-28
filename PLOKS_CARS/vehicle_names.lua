@@ -40,6 +40,8 @@ Citizen.CreateThread(function()
 	AddTextEntry('2020ss', '2020 Chevrolet Camaro SS')
 	AddTextEntry('camrs17', '2017 Chevrolet Camaro RS')
 	AddTextEntry('tahoe21', '2021 Chevrolet Tahoe RST')
+	AddTextEntry('silv20', '2020 Chhevrolet Silverado')
+	AddTextEntry('checol17', '2017 Chevrolet Colorado Zr2')
 	-- GMC
 	AddTextEntry('denali18', '2018 GMC Sierra 1500 Denali')
 	AddTextEntry('yukonxl', '2003 GMC Yukon XL')

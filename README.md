@@ -65,7 +65,9 @@
 | **2020 Chevrolet Corvette C8 Stingray** | stingray | ![Picture](./img/c8.webp) | LightningJet357 | [5MODS Link](https://gta5-mods.com/vehicles/2020-corvette-c8-stingray-add-on-oiv-tuning-template) | ✔️ |
 | **2020 Chevrolet Camaro SS** | 2020ss | ![Picture](./img/2020ss.webp) | ArcticAsian | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-chevrolet-camaro-ss-add-on-replace-tuning-template-rs-ss-zl1-1le-widebody) | ✔️ |
 | **Chevrolet Corvette C5 Z06** | corvettec5z06 | ![Picture](./img/corvettec5z06.webp) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-corvette-c5-z06-lods-add-on-template-liveries) | ✔️ |
+| **2020 Chevrolet Silverado** | silv20 | ![Picture](./img/20silv.webp) | abdulaziz3499 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-silverado-2020-single-cab-addon-repalce-fivem-unlocked) | ✔️ |
 | **2009 Chevrolet Corvette ZR1** | czr1 | ![Picture](./img/czr1.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-corvette-zr1-2009-add-on-extras-livery-dirtmap-template) | ✔️ |
+| **2017 Chevrolet Colorado ZR2** | checol17 | ![Picture](./img/colzr2.webp) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-colorado-zr2-2017-add-on) | ✔️ |
 | **2016 Dodge Charger** | 16charger | ![Picture](./img/16charger.webp) | tk0wnz | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-dodge-charger-sxt-r-t-srt-392-hellcat-add-on-replace-hq) | ✔️ |
 | **1999 Dodge Viper GTS ACR** | 99viper | ![Picture](./img/99viper.webp) | tk0wnz | [5MODS Link](https://www.gta5-mods.com/vehicles/1999-dodge-viper-gts-acr) | ✔️ |
 | **Dodge Charger Hellcat Widebody 2021** | chr20 | ![Picture](./img/chr20.webp) | Aaaqil | [5MODS Link](https://www.gta5-mods.com/vehicles/dodge-charger-hellcat-widebody-2021) | ✔️ |
