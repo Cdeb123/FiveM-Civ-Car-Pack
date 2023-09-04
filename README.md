@@ -98,6 +98,7 @@
 | **1978 Ford F150 XLT Ranger** | f15078 | ![Picture](./img/f15078.webp) | OhiOcinu & GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/1978-ford-f150-xlt-add-on) | ✔️ |
 | **2005 Ford GT** | fgt | ![Picture](./img/fgt.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2005-ford-gt-aige) | ✔️ |
 | **2017 Ford GT** | gt17 | ![Picture](./img/gt17.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-ford-gt-add-on-replace-yca-aige) | ✔️ |
+| **2023 Ford Taurus** | taurus23 | ![Picture](./img/23taurus.png) | AboM7sn | [5MODS Link](https://www.gta5-mods.com/vehicles/ford-taurus-2023-add-on-fivem-unlocked) | ✔️ |
 | **2000 Ford F350 Super Duty Dually** | 00f350d | ![Picture](./img/00f350.png) | DeezNutties123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2000-f350-super-duty-dually-addon) | ✔️ |
 | **2015 Ford Mustang GT 50 Years Special Edition** | mustang50th | ![Picture](./img/mustang50th.webp) | modcanario (alertacobra_gta5_mods) and zQrba | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-ford-mustang-gt-50-years-special-edition-add-on-tunning) | ✔️ |
 | **2017 Ford Raptor** | raptor2017 | ![Picture](./img/raptor2017.webp) | Vans123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-ford-raptor-hq-rigged-suspension-multi-dirt-animated-engine-tuning) | ✔️ |
