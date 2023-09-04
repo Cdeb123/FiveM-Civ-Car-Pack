@@ -83,7 +83,6 @@ Citizen.CreateThread(function()
 	AddTextEntry('raptor2017', '2017 Ford Raptor')
 	AddTextEntry('wildtrak', '2021 Ford Bronco Wildtrak')
 	AddTextEntry('00f350d', '2000 Ford F350 Super Duty Dually')
-	AddTextEntry('taurus23', '2023 Ford Taurus')
 	-- HONDA
 	AddTextEntry('honcrx91', 'Honda CRX SiR 1991')
 	AddTextEntry('na1', '1992 Honda NSX-R (NA1)')
