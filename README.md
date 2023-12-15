@@ -102,6 +102,7 @@
 | **2015 Ford Mustang GT 50 Years Special Edition** | mustang50th | ![Picture](./img/mustang50th.webp) | modcanario (alertacobra_gta5_mods) and zQrba | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-ford-mustang-gt-50-years-special-edition-add-on-tunning) | ✔️ |
 | **2017 Ford Raptor** | raptor2017 | ![Picture](./img/raptor2017.webp) | Vans123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-ford-raptor-hq-rigged-suspension-multi-dirt-animated-engine-tuning) | ✔️ |
 | **2021 Ford Bronco Wildtrak** | wildtrak | ![Picture](./img/wildtrak.webp) | LightningJet357 | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-ford-bronco-wildtrak-add-on-fivem) | ✔️ |
+| **2005 Ford Mustang GT** | mustang2005gt | ![Picture](./img/mustang2005gt.jpg) | HitmanNiko | [5MODS Link](https://www.gta5-mods.com/vehicles/2005-ford-mustang-gt-mk-v) | ✔️ |
 | **1997 Honda Civic Sedan Drag Version** | dragekcivick | ![Picture](./img/dragekcivick.webp) | KreyZ Designs | [5MODS Link](https://www.gta5-mods.com/vehicles/1999-honda-civic-sedan-drag-version/) | ✔️ | xAdrian |
 | **Honda S2000 AP2** | ap2 | ![Picture](./img/ap2.webp) | AlperB | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-s2000-tunable) | ✔️ |
 | **2001 Honda Civic Type-R (EP3)** | ep3 | ![Picture](./img/ep3.jpg) | [YCA]Vsoreny | [5MODS Link](https://www.gta5-mods.com/vehicles/2004-honda-civic-type-r-ep3) | ✔️ |
