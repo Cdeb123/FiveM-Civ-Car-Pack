@@ -40,6 +40,7 @@
 | **2010 Audi TT RS** | ttrs | ![Picture](./img/ttrs.webp) | RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-ttrs-2010-add-on-tunning) | ✔️ |
 | **Bentley Bentayga** | bbentayga | ![Picture](./img/bbentayga.jpg) | abdulla_kw | [5MODS Link](https://www.gta5-mods.com/vehicles/bentley-bentayga) | ✔️ |
 | **2020 Bentley Continental GT Convertible** | cgts | ![Picture](./img/cgts.webp) | Thomas Shelby | [5MODS Link](https://www.gta5-mods.com/vehicles/bentley-continental-gt-convertible-2020-add-on) | ✔️ |
+| **2021 Bentley Mulliner Bacalar** | bmb21 | ![Picture](./img/bmb21.webp) | NAVID_BRAJ | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-bentley-mulliner-bacalar-add-on) | ✔️ |
 | **2004 BMW 760Li Individual (E66/PFL)** | 760li04 | ![Picture](./img/760li04.webp) | DrAgOn777, HRH | [5MODS Link](https://www.gta5-mods.com/vehicles/2004-bmw-760li-individual-e66-pfl-add-on-replace-tuning-extras) | ✔️ |
 | **1995 BMW M5 E34** | e34 | ![Picture](./img/e34.webp) | HitmanNiko | [5MODS Link](https://www.gta5-mods.com/vehicles/1995-bmw-m5-e34-replace-add-on-tuning) | ✔️ |
 | **2016 BMW M2** | m2 | ![Picture](./img/m2.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/2016-bmw-m2-add-on-replace-tuning-template) | ✔️ |
@@ -125,6 +126,8 @@
 | **Lamborghini Aventador SVJ** | svj63 | ![Picture](./img/svj63.webp) | yanfenglenfan | [5MODS Link](https://www.gta5-mods.com/vehicles/2019-lamborghini-aventador-svj-add-on-digital-gear-hq) | ✔️ |
 | **Lamborghini Urus** | urus | ![Picture](./img/urus.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/lamborghini-urus-add-on-template) | ✔️ | gabrielcalderon |
 | **2013 Lamborghini Veneno LP750-4** | veneno | ![Picture](./img/veneno.webp) | yanfenglenfan | [5MODS Link](https://www.gta5-mods.com/vehicles/2013-lamborghini-veneno-lp750-4-add-on-l-tuning-l-4k-template-l-digital-gear) | ✔️ |
+| **2005 Lamborghini Gallardo Spyder** | gallardo05 | ![Picture](./img/gallardo05.webp) | NAVID_BRAJ | [5MODS Link](https://www.gta5-mods.com/vehicles/2005-lamborghini-gallardo-spyder-add-on) | ✔️ |
+| **2024 Lamborghini Revuelto** | rev | ![Picture](./img/rev.jpg) | navzahed | [5MODS Link](https://www.gta5-mods.com/vehicles/2024-lamborghini-revuelto-add-on-vehfuncsv) | ✔️ |
 | **Lexus GS 350** | gs350 | ![Picture](./img/gs350.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lexus-gs-350-add-on-replace-tuning-template) | ✔️ |
 | **2014 Lexus IS 350** | is350mod | ![Picture](./img/is350mod.jpg) | johnny8937 | [5MODS Link](https://www.gta5-mods.com/vehicles/2014-lexus-is-350-exterior-remodel-add-on-tuning-template) | ✔️ |
 | **2015 Lexus RCF** | rcf | ![Picture](./img/rcf.jpg) | YCA-y97y | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-lexus-rcf-add-on-rocketbunny) | ✔️ |
@@ -168,6 +171,7 @@
 | **1997 Nissan Patrol Super Safari Y60** | Safari97 | ![Picture](./img/Safari97.webp) | tmhhl | [5MODS Link](https://www.gta5-mods.com/vehicles/nissan-patrol-super-safari-y60-1997) | ✔️ |
 | **Nissan Skyline GT-R (BNR34)** | skyline | ![Picture](./img/skyline.jpg) | YCA-y97y | [5MODS Link](https://www.gta5-mods.com/vehicles/nissan-skyline-gt-r-bnr34-yca-y97y) | ✔️ |
 | **Nissan 300ZX Z32** | z32 | ![Picture](./img/z32.webp) | Cereal | [5MODS Link](https://www.gta5-mods.com/vehicles/nissan-300zx-z32) | ✔️ |
+| **2023 Nissan Altima SR VC-Turbo** | 23altimavctsr | ![Picture](./img/23altimavctsr.webp) | jrem7315 & Lazlow | [5MODS Link](https://www.gta5-mods.com/vehicles/2023-nissan-altima-sr-vc-turbo-replace-add-on) | ✔️ |
 | **Porsche 718 Cayman S** | 718caymans | ![Picture](./img/718caymans.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/porsche-718-cayman-s-add-on-replace) | ✔️ |
 | **2003 Porsche Carrera GT (980)** | cgt | ![Picture](./img/cgt.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2003-porsche-carrera-gt-980) | ✔️ |
 | **1978 Porsche 935 Moby Dick** | maj935 | ![Picture](./img/maj935.webp) | MajesticDoggo | [5MODS Link](https://www.gta5-mods.com/vehicles/1978-porsche-935-moby-dick) | ✔️ |
@@ -200,6 +204,7 @@
 | **Toyota Mark II JZX100** | mk2100 | ![Picture](./img/mk2100.webp) | cereaI | [5MODS Link](https://www.gta5-mods.com/vehicles/jzx100-mark-ii-add-on-tuning-template) | ✔️ |
 | **Toyota Trueno (AE86)** | ae86 | ![Picture](./img/ae86.webp) | [YCA]forget | [5MODS Link](https://de.gta5-mods.com/vehicles/toyota-trueno-ae86-add-on-rhd-lnital-d) | ✔️ |
 | **2016 Toyota Land Cruiser VXR** | vxr | ![Picture](./img/vxr.jpg) | Abdulrhman1 | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-land-cruiser-vxr) | ✔️ |
+| **2024 Toyota Tacoma** | tacoma24 | ![Picture](./img/tacoma24.jpg) | NAVID_BRAJ | [5MODS Link](https://www.gta5-mods.com/vehicles/2024-toyota-tacoma-tuning-add-on) | ✔️ |
 | **2015 Volkswagen Golf GTI MK7** | golfgti7 | ![Picture](./img/golfgti7.webp) | mateus_ulhoa3D | [5MODS Link](https://www.gta5-mods.com/vehicles/volkswagen-golf-gti-mk7-2015-add-on-replace-digital-dials-dirt-map) | ✔️ |
 | **2018 Volkswagen Amarok V6** | amarok | ![Picture](./img/amarok.webp) | SaleeN | [5MODS Link](https://de.gta5-mods.com/vehicles/2018-volkswagen-amarok-v6-add-on-replace) | ✔️ |
 | **2016 Volkswagen Passat B8** | vwr | ![Picture](./img/vwr.webp) | zQrba | [5MODS Link](https://de.gta5-mods.com/vehicles/2016-volkswagen-passat-b8-add-on) | ✔️ |

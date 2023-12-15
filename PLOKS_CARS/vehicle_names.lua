@@ -19,6 +19,7 @@ Citizen.CreateThread(function()
 	-- BENTLEY
 	AddTextEntry('bbentayga', 'Bentley Bentayga')
 	AddTextEntry('cgts', '2020 Bentley Continental GT Convertible')
+	AddTextEntry('bmb21', '2021 Bentley Mulliner Bacalar')
 	-- BMW
 	AddTextEntry('760li04', '2004 BMW 760Li Individual (E66/PFL)')
 	AddTextEntry('e34', '1995 BMW M5 E34')
@@ -115,6 +116,8 @@ Citizen.CreateThread(function()
 	AddTextEntry('svj63', 'Lamborghini Aventador SVJ')
 	AddTextEntry('urus', 'Lamborghini Urus')
 	AddTextEntry('veneno', '2013 Lamborghini Veneno LP750-4')
+	AddTextEntry('gallardo05', '2005 Lamborghini Gallardo Spyder')
+	AddTextEntry('rev', '2024 Lamborghini Revuelto')
 	-- LEXUS
 	AddTextEntry('gs350', 'Lexus GS 350')
 	AddTextEntry('is350mod', '2014 Lexus IS 350')
@@ -168,6 +171,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('Safari97', '1997 Nissan Patrol Super Safari Y60')
 	AddTextEntry('skyline', 'Nissan Skyline GT-R (BNR34)')
 	AddTextEntry('z32', 'Nissan 300ZX Z32')
+	AddTextEntry('23altimavctsr', '2023 Nissan Altima SR VC-Turbo')
 	-- PORSCHE
 	AddTextEntry('maj935', '1978 Porsche 935 Moby Dick')
 	AddTextEntry('pcs18', '2018 Porsche Cayenne S')
@@ -204,6 +208,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('vxr', '2016 Toyota Land Cruiser VXR')
 	AddTextEntry('toysupmk4', '1998 Toyota Supra Turbo (A80)')
 	AddTextEntry('mk2100', 'Toyota Mark II JZX100')
+	AddTextEntry('tacoma24', '2024 Toyota Tacoma')
 	-- VOLKSWAGEN
 	AddTextEntry('golfgti7', '2015 Volkswagen Golf GTI MK7')
 	-- VOLVO
