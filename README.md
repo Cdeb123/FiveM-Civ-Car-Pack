@@ -205,6 +205,7 @@
 | **Toyota Trueno (AE86)** | ae86 | ![Picture](./img/ae86.webp) | [YCA]forget | [5MODS Link](https://de.gta5-mods.com/vehicles/toyota-trueno-ae86-add-on-rhd-lnital-d) | ✔️ |
 | **2016 Toyota Land Cruiser VXR** | vxr | ![Picture](./img/vxr.jpg) | Abdulrhman1 | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-land-cruiser-vxr) | ✔️ |
 | **2024 Toyota Tacoma** | tacoma24 | ![Picture](./img/tacoma24.jpg) | NAVID_BRAJ | [5MODS Link](https://www.gta5-mods.com/vehicles/2024-toyota-tacoma-tuning-add-on) | ✔️ |
+| **2025 Toyota Rav 4 XSE** | 25rav4xsehybrid | ![Picture](./img/25rav4xsehybrid.png) | jrem7315 & Przemo | [5MODS Link](https://www.gta5-mods.com/vehicles/2025-toyota-rav4-xse-hybrid-1-0-add-on-replace) | ✔️ |
 | **2015 Volkswagen Golf GTI MK7** | golfgti7 | ![Picture](./img/golfgti7.webp) | mateus_ulhoa3D | [5MODS Link](https://www.gta5-mods.com/vehicles/volkswagen-golf-gti-mk7-2015-add-on-replace-digital-dials-dirt-map) | ✔️ |
 | **2018 Volkswagen Amarok V6** | amarok | ![Picture](./img/amarok.webp) | SaleeN | [5MODS Link](https://de.gta5-mods.com/vehicles/2018-volkswagen-amarok-v6-add-on-replace) | ✔️ |
 | **2016 Volkswagen Passat B8** | vwr | ![Picture](./img/vwr.webp) | zQrba | [5MODS Link](https://de.gta5-mods.com/vehicles/2016-volkswagen-passat-b8-add-on) | ✔️ |

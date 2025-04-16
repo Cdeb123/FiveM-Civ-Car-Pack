@@ -209,6 +209,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('toysupmk4', '1998 Toyota Supra Turbo (A80)')
 	AddTextEntry('mk2100', 'Toyota Mark II JZX100')
 	AddTextEntry('tacoma24', '2024 Toyota Tacoma')
+	AddTextEntry('25rav4xsehybrid', '2025 Toyota Rav 4 XSE')
 	-- VOLKSWAGEN
 	AddTextEntry('golfgti7', '2015 Volkswagen Golf GTI MK7')
 	-- VOLVO

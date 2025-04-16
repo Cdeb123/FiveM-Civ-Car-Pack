@@ -203,6 +203,7 @@ INSERT INTO `vehicles`(`name`, `model`, `price`, `category`) VALUES
 	("2018 Toyota Camry XSE","cam8tun",70000,"toyota"),
 	("2016 Toyota Land Cruiser VXR","vxr",900000,"toyota"),
 	("1998 Toyota Supra Turbo (A80)","toysupmk4",255000,"toyota"),
+	("Toyota Rav 4 XSE","25rav4xsehybrid",61000,"toyota"),
 	("Toyota Mark II JZX100","mk2100",90000,"toyota"),
 	("2015 Volkswagen Golf GTI MK7","golfgti7",375000,"volkswagen"),
 	("2016 Volkswagen Passat B8","passat",375000,"volkswagen"),
@@ -211,5 +212,4 @@ INSERT INTO `vehicles`(`name`, `model`, `price`, `category`) VALUES
 	("Volvo XC90 T8","xc90",425000,"volvo"),
 	("W-Motors Fenyr Supersport","wmfenyr",220000,"wmotors"),
 	("W-Motors Lykan HyperSport","lykan",185000,"wmotors")
-	
 ;

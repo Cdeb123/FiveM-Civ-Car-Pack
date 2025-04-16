@@ -1778,6 +1778,16 @@
 	['hash'] = `tacoma24`,
 	['shop'] = 'pdm',
 },
+['25rav4xsehybrid'] = {
+	['name'] = '2025 Toyota Rav 4 XSE',
+	['brand'] = 'toyota',
+	['model'] = '25rav4xsehybrid',
+	['price'] = 61000,
+	['category'] = 'toyota',
+	['categoryLabel'] = 'toyota',
+	['hash'] = `25rav4xsehybrid`,
+	['shop'] = 'pdm',
+},
 ['golfgti7'] = {
 	['name'] = '2015 Volkswagen Golf GTI MK7',
 	['brand'] = 'volkswagen',
