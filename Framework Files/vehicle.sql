@@ -1,6 +1,7 @@
 INSERT INTO `vehicle_categories`(`name`, `label`) VALUES
 	("aston", "Aston Martin"),
 	("audi", "Audi"),
+	("alfa", "Alfa Romeo"),
 	("bentley","Bentley"),
 	("bmw","BMW"),
 	("bugatti","Bugatti"),

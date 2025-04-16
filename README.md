@@ -38,6 +38,7 @@
 | **1998 Audi S8 (D2/PFL)** | s8d2 | ![Picture](./img/s8d2.webp) | HRH | [5MODS Link](https://www.gta5-mods.com/vehicles/1998-audi-s8-d2-us-6spd-add-on-replace-tuning-extras) | ✔️ |
 | **2016 Audi SQ7** | sq72016 | ![Picture](./img/sq72016.webp) | [DTD] RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-sq7-2016-add-on) | ✔️ |
 | **2010 Audi TT RS** | ttrs | ![Picture](./img/ttrs.webp) | RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-ttrs-2010-add-on-tunning) | ✔️ |
+| **2007 Alfa Romeo 8C Competizione** | 07alf8chp | ![Picture](./img/07alf8chp.png) | Scrapper13 | [5MODS Link](https://www.gta5-mods.com/vehicles/nfshp-2007-alfa-romeo-8c-competizione-add-on-template) | ✔️ |
 | **Bentley Bentayga** | bbentayga | ![Picture](./img/bbentayga.jpg) | abdulla_kw | [5MODS Link](https://www.gta5-mods.com/vehicles/bentley-bentayga) | ✔️ |
 | **2020 Bentley Continental GT Convertible** | cgts | ![Picture](./img/cgts.webp) | Thomas Shelby | [5MODS Link](https://www.gta5-mods.com/vehicles/bentley-continental-gt-convertible-2020-add-on) | ✔️ |
 | **2021 Bentley Mulliner Bacalar** | bmb21 | ![Picture](./img/bmb21.webp) | NAVID_BRAJ | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-bentley-mulliner-bacalar-add-on) | ✔️ |

@@ -38,6 +38,16 @@
 	['hash'] = `aaq4`,
 	['shop'] = 'pdm',
 },
+['07alf8chp'] = {
+	['name'] = '2007 Alfa Romeo 8C Competizione',
+	['brand'] = 'alfa',
+	['model'] = '07alf8chp',
+	['price'] = 55000,
+	['category'] = 'alfa',
+	['categoryLabel'] = 'alfa',
+	['hash'] = `07alf8chp`,
+	['shop'] = 'pdm',
+},
 ['q820'] = {
 	['name'] = '2020 Audi Q8 50TDI',
 	['brand'] = 'audi',
