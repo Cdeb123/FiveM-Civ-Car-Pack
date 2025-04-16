@@ -137,6 +137,7 @@ INSERT INTO `vehicles`(`name`, `model`, `price`, `category`) VALUES
 	("2002 Lotus Esprit V8","esprit02",20000,"lotus"),
 	("Quartz Regalia 723","regalia",80000,"quartz"),
 	("Maserati Levante","levante",75000,"maserati"),
+	("2009 Maserati Quattroporte Sport GT S","09gtshp",88000,"maserati"),
 	("1984 Mazda RX-7 Stanced Version","84rx7k",65000,"mazda"),
 	("2002 Mazda RX-7 FD Drag","dragfd",220000,"mazda"),
 	("Mazda RX7 FC3S","fc3s",12000,"mazda"),

@@ -1048,7 +1048,17 @@
 	['hash'] = `regalia`,
 	['shop'] = 'pdm',
 },
-['levante'] = {
+['09gtshp'] = {
+	['name'] = '2009 Maserati Quattroporte Sport GT S',
+	['brand'] = 'maserati',
+	['model'] = '09gtshp',
+	['price'] = 75000,
+	['category'] = 'maserati',
+	['categoryLabel'] = 'maserati',
+	['hash'] = `09gtshp`,
+	['shop'] = 'pdm',
+},
+[''] = {
 	['name'] = 'Maserati Levante',
 	['brand'] = 'maserati',
 	['model'] = 'levante',

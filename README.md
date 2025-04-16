@@ -135,6 +135,7 @@
 | **2002 Lotus Esprit V8** | esprit02 | ![Picture](./img/esprit02.webp) | OhiOcinu | [5MODS Link](https://www.gta5-mods.com/vehicles/2002-lotus-esprit-v8-add-on-lods-template) | ✔️ |
 | **Quartz Regalia 723** | regalia | ![Picture](./img/regalia.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/quartz-regalia-723) | ✔️ | Fictional [Final Fantasy XV] |
 | **Maserati Levante** | levante | ![Picture](./img/levante.jpg) | SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/maserati-levante-add-on-replace) | ✔️ |
+| **2009 Maserati Quattroporte Sport GT S** | 09gtshp | ![Picture](./img/09gtshp.png) | Scrapper13 | [5MODS Link](https://www.gta5-mods.com/vehicles/nfshp-2009-maserati-quattroporte-sport-gt-s-add-on-template) | ✔️ |
 | **1984 Mazda RX-7 Stanced Version** | 84rx7k | ![Picture](./img/84rx7k.webp) | KreyZ Designs | [5MODS Link](https://www.gta5-mods.com/vehicles/1984-mazda-rx-7-stanced-version-five-m-replace-add-on) | ✔️ |
 | **2002 Mazda RX-7 FD Drag** | dragfd | ![Picture](./img/dragfd.webp) | Khafra | [5MODS Link](https://www.gta5-mods.com/vehicles/2002-drag-fd-rx7) | ✔️ |
 | **Mazda RX7 FC3S** | fc3s | ![Picture](./img/fc3s.webp) | erfet, Ghost0912 | [5MODS Link](https://www.gta5-mods.com/vehicles/mazda-rx7-fc3s-tunable) | ✔️ |

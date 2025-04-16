@@ -130,6 +130,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('regalia', 'Quartz Regalia 723')
 	-- MASERATI
 	AddTextEntry('levante', 'Maserati Levante')
+	AddTextEntry('09gtshp', '2009 Maserati Quattroporte Sport GT S')
 	-- MAZDA
 	AddTextEntry('84rx7k', '1984 Mazda RX-7 Stanced Version')
 	AddTextEntry('dragfd', '2002 Mazda RX-7 FD Drag')
