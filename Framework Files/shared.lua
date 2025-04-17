@@ -788,6 +788,16 @@
 	['hash'] = `yukonxl`,
 	['shop'] = 'pdm',
 },
+['santafe'] = {
+	['name'] = '2013 Hyundai Santa Fe',
+	['brand'] = 'Hyundai',
+	['model'] = 'santafe',
+	['price'] = 22000,
+	['category'] = 'hyundai',
+	['categoryLabel'] = 'hyundai',
+	['hash'] = `santafe`,
+	['shop'] = 'pdm',
+},
 ['honcrx91'] = {
 	['name'] = 'Honda CRX SiR 1991',
 	['brand'] = 'honda',

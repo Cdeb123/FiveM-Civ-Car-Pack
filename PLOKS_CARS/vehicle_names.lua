@@ -94,6 +94,8 @@ Citizen.CreateThread(function()
 	AddTextEntry('ap2', 'Honda S2000 AP2')
 	AddTextEntry('dragekcivick', '1997 Honda Civic Sedan Drag Version')
 	AddTextEntry('fk8', '2018 Honda Civic Type-R (FK8)')
+	-- HYUNDAI
+	AddTextEntry('santafe', '2013 Santa Fe')
 	-- INFINITI
 	AddTextEntry('fx50s', '2013 Infiniti FX50S')
 	AddTextEntry('qx56', 'Infiniti QX56')
